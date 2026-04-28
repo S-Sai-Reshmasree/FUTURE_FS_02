@@ -45,23 +45,8 @@ mini-crm/
 ├── index.html      # Main UI page
 ├── style.css       # Styling file
 └── app.js          # CRM logic (CRUD operations)
-```
-
----
-
-## 🌐 How to Run the Project
-Step 1:
-Download or clone the repository
-
-Step 2:
-Open the folder in VS Code
-
-Step 3:
-Open `index.html`
-
 
 📸 CRM Workflow
-
 1. User adds lead via form
 2. Lead is stored in browser
 3. Lead appears in dashboard
@@ -71,7 +56,6 @@ Open `index.html`
 💼 Real-World Use Case
 
 This project simulates how real businesses:
-
 * Collect leads from websites
 * Track potential customers
 * Manage sales pipeline
